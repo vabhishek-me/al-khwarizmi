@@ -6,7 +6,7 @@ XORupto(7) = 1 ^ 2 ^ 3 ^ 4 ^ 5 ^ 6  = 7
 
 ### Implementation
 
-  - C++ - <xor_n.cpp>
+  - C++ - [xor_n.cpp](./xor_n.cpp)
 
 #### Naive [Complexity O(n)]
 
