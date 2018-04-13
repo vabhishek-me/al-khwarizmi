@@ -2,8 +2,8 @@
 
 ## Data Structures
 	
-	- [bitmap](./Data%20Structures/bitmap/)
+  - [bitmap](./Data%20Structures/bitmap/)
 
 ## Problems
 	
-	- [Bit Manipulation](./Problems/Bit\ Manipulation)
+  - [Bit Manipulation](./Problems/Bit%20Manipulation)
